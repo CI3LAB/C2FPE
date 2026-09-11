@@ -8,5 +8,5 @@ We release construction-site RGB-D datasets of **convex** and **concave** assemb
 
 <p align="center">
   <img src="assets/dataset_sample_combined.png" width="95%"/><br/>
-  <em>Sample images from the construction-site datasets (visibility / distance / viewpoint variations).</em>
+  <em>Representative sample images from the dataset.</em>
 </p>
