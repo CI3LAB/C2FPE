@@ -25,7 +25,7 @@ The dataset contains RGB-D images of convex and concave assembly targets. Convex
 [Download](https://pan.baidu.com/s/1VuqFPsu-605deb5dvjs0kw?pwd=8p7y)
 
 ## Citation
-Please cite our work if you find the dataset useful.
+If you find our work useful, please consider citing our paper.
 ```
 @article{QI2026107259,
   title = {Vision-based assembly target pose estimation and adaptation for robotic assembly in Modular Integrated Construction},
